@@ -19,9 +19,9 @@ This file controls what the daily AI digest focuses on. The scheduled agent read
 
 ## Format preference
 - Keep to the top 2-3 most important events
-- Shorter summaries — 1 sentence per item is fine
+- Write as a story, not a bullet list — narrative format focused only on business impact
+- Include a recommended action (e.g. "Try this feature") only when it genuinely makes sense — not every digest item needs one
 - Focus on what matters for an AI exploratory lead role
-- For each item, add a brief "Business impact" note: how could this affect a company aggressively adopting AI across all departments and roles?
 
 ## Notes
 - Edit this file directly to steer future digests
