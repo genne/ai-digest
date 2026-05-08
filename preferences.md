@@ -22,6 +22,7 @@ This file controls what the daily AI digest focuses on. The scheduled agent read
 - Write as a story, not a bullet list — narrative format focused only on business impact
 - Include a recommended action (e.g. "Try this feature") only when it genuinely makes sense — not every digest item needs one
 - Focus on what matters for an AI exploratory lead role
+- **Keep it short** — the whole digest should be 3-4 short paragraphs maximum (user feedback: "too long")
 
 ## Notes
 - Edit this file directly to steer future digests
